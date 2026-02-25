@@ -1,0 +1,3782 @@
+[
+  {
+    "image": "Normal/normal (1).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (10).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (100).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (103).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (105).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (106).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (107).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (108).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (11).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (111).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (112).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (113).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (114).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (115).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (116).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (117).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (118).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (119).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (12).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (120).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (122).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (126).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (127).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (128).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (129).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (13).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (131).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (132).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (133).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (14).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (15).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (16).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (17).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (18).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (19).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (2).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (20).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (21).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (22).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (23).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (24).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (25).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (26).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (27).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (29).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (3).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (31).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (32).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (33).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (34).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (36).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (38).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (39).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (4).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (40).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (44).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (45).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (46).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (48).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (5).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (50).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (51).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (52).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (53).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (54).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (55).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (56).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (58).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (59).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (6).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (60).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (62).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (63).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (65).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (66).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (67).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (68).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (69).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (7).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (70).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (71).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (72).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (73).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (74).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (75).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (76).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (77).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (78).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (79).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (8).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (80).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (81).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (83).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (85).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (86).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (87).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (89).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (9).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (90).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (91).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (92).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (94).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (95).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (96).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (97).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (98).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Normal/normal (99).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Normal",
+    "label": 0
+  },
+  {
+    "image": "Benign/benign (1).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (10).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (100).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (102).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (103).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (104).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (105).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (106).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (107).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (108).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (109).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (11).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (110).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (111).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (112).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (113).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (114).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (115).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (116).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (117).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (118).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (120).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (121).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (122).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (123).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (125).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (126).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (127).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (128).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (129).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (13).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (132).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (133).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (134).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (136).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (137).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (138).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (139).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (14).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (140).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (142).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (144).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (147).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (148).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (149).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (15).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (150).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (151).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (152).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (153).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (154).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (155).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (157).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (158).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (159).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (16).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (160).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (161).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (162).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (163).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (164).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (165).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (166).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (167).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (168).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (169).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (17).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (171).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (173).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (175).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (176).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (177).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (179).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (18).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (180).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (181).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (182).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (183).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (184).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (185).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (186).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (187).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (189).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (19).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (190).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (191).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (192).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (193).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (194).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (195).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (197).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (198).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (2).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (200).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (201).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (202).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (204).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (205).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (207).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (208).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (209).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (21).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (210).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (212).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (213).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (214).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (215).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (216).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (217).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (218).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (219).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (22).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (222).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (224).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (225).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (226).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (228).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (229).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (23).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (230).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (231).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (233).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (235).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (236).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (237).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (238).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (239).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (24).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (240).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (241).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (242).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (243).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (244).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (245).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (246).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (247).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (248).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (25).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (250).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (251).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (252).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (253).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (255).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (257).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (259).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (26).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (260).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (261).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (263).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (265).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (268).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (269).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (270).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (271).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (272).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (275).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (276).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (277).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (278).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (279).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (28).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (280).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (281).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (282).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (283).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (284).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (285).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (286).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (287).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (288).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (289).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (29).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (290).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (291).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (293).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (295).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (296).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (297).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (298).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (299).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (3).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (30).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (300).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (301).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (302).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (303).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (304).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (306).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (307).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (309).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (31).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (312).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (313).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (314).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (315).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (316).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (317).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (318).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (319).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (32).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (320).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (321).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (322).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (323).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (324).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (325).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (326).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (327).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (328).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (329).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (33).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (330).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (331).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (332).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (333).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (334).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (335).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (336).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (337).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (338).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (339).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (34).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (340).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (341).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (342).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (343).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (344).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (347).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (348).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (349).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (35).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (351).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (352).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (354).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (355).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (357).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (358).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (359).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (36).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (360).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (361).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (362).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (363).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (364).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (366).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (367).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (368).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (369).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (37).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (371).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (372).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (373).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (374).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (375).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (376).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (377).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (379).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (380).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (381).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (382).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (383).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (385).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (386).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (387).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (388).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (39).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (390).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (391).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (393).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (395).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (396).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (397).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (4).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (40).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (400).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (401).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (402).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (404).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (405).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (406).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (407).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (409).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (41).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (410).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (411).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (412).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (415).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (417).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (418).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (419).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (42).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (421).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (424).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (425).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (426).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (427).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (428).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (429).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (43).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (430).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (431).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (432).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (433).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (434).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (436).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (437).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (44).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (45).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (46).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (47).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (48).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (49).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (5).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (50).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (51).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (52).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (53).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (54).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (56).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (58).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (59).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (60).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (62).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (64).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (65).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (66).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (67).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (68).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (69).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (7).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (70).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (71).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (72).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (73).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (74).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (75).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (76).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (8).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (80).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (81).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (82).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (83).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (84).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (85).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (86).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (87).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (89).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (9).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (91).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (92).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (93).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (95).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (97).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (98).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Benign/benign (99).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Benign",
+    "label": 1
+  },
+  {
+    "image": "Malignant/malignant (1).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (10).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (100).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (101).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (102).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (103).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (104).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (105).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (107).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (108).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (109).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (110).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (111).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (112).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (114).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (115).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (116).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (117).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (118).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (119).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (120).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (121).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (122).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (123).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (125).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (126).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (127).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (128).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (129).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (13).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (132).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (133).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (136).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (137).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (138).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (139).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (14).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (140).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (141).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (142).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (143).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (144).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (145).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (146).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (147).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (149).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (150).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (152).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (153).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (154).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (155).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (157).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (158).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (159).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (161).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (162).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (163).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (164).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (165).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (166).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (167).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (168).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (169).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (17).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (170).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (172).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (173).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (174).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (175).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (176).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (177).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (178).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (179).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (18).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (180).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (181).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (183).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (184).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (185).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (186).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (187).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (188).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (189).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (19).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (192).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (193).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (194).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (195).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (196).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (199).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (2).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (20).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (200).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (201).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (202).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (203).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (205).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (206).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (207).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (208).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (209).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (21).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (210).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (22).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (25).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (26).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (28).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (29).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (3).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (30).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (31).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (32).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (34).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (35).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (36).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (37).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (38).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (4).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (41).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (42).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (43).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (45).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (46).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (48).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (49).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (5).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (50).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (51).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (52).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (53).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (55).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (56).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (57).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (59).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (6).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (61).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (62).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (63).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (64).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (65).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (66).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (67).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (68).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (69).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (7).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (70).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (71).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (72).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (73).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (74).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (76).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (78).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (79).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (8).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (80).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (83).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (84).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (85).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (86).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (87).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (88).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (89).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (9).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (90).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (91).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (94).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (98).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  },
+  {
+    "image": "Malignant/malignant (99).png",
+    "text": "Carefully examine the image to determine the diagnostic result for breast cancer. Please answer 'Normal', 'Benign', or 'Malignant'.",
+    "answer": "Malignant",
+    "label": 2
+  }
+]
